@@ -1,2 +1,2 @@
 # hcishell
-simple script in ruby simplifies usnig hcitool
+simple script in ruby simplifies using hcitool
